@@ -18,9 +18,7 @@ SDS compliance monitoring to ensure shop-floor safety documentation
 
 Built using structured Excel tables, XLOOKUP, PivotTables, and interactive dashboards, the system transforms reactive purchasing into a proactive, data-driven replenishment strategy.
 
-Impact
-
-Near-zero fabrication downtime during final assembly
+Impact:
 
 Improved budget transparency and subsystem-level cost visibility
 
